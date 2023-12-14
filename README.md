@@ -2,6 +2,9 @@
 This is a food order application where i am using microservices architecture while applying Hexagonal Architectures using Domain Driven Design. I am using Hexagonal Architecture principles while developing each service and also applying Domain Driven Design principles.
 ![order-service-hexagonal-section-2-share](https://github.com/Nikhil13rathi/Food_ordering_system/assets/66169242/df848ebd-de22-4f7a-8672-0e3dcf7b51d7)
 
+# Architechture
+![Architechture](https://github.com/Nikhil13rathi/Food_ordering_system/assets/66169242/f5673f0f-513a-43de-b2a1-71e8e127b288)
+
 **Order Service Domain Logic**
 
 
